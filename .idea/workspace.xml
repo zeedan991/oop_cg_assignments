@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14edc1be-515f-494f-b2fc-cc46bc910f2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_cg_assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="33stAjBUcofp0SY3aPH3i3M3oU9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.assignment4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/zeedan/IdeaProjects/oop_cg_assignments/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14edc1be-515f-494f-b2fc-cc46bc910f2d" name="Changes" comment="" />
+      <created>1760117467060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760117467060</updated>
+    </task>
+    <servers />
+  </component>
+</project>
