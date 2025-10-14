@@ -4,25 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14edc1be-515f-494f-b2fc-cc46bc910f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop_cg_assignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9.java" afterDir="false" />
+    <list default="true" id="14edc1be-515f-494f-b2fc-cc46bc910f2d" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/default1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/default2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zeedan991&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zeedan991/oop_cg_assignments.git&quot;,
+    &quot;accountId&quot;: &quot;000207d0-3a26-4350-b749-854d792dda8c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -52,7 +52,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.assignment10.executor": "Run",
     "Application.assignment4.executor": "Run",
+    "Application.assignment6.executor": "Run",
+    "Application.assignment7.executor": "Run",
+    "Application.assignment8.executor": "Run",
+    "Application.assignment9.executor": "Run",
+    "Application.default1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -69,6 +75,27 @@
       <option name="presentableId" value="Default" />
       <updated>1760117467060</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1760122378591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760122378591</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1760122450921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760122450921</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
