@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class assignment2 {
 
-    public static class simplehotelbooking {
+    public static class Simplehotelbooking {
         static String[][] rooms = new String[3][3]; // 3 floors, 3 rooms each
         static Scanner scanner = new Scanner(System.in);
 
@@ -60,7 +60,7 @@ public class assignment2 {
             System.out.print("Enter your name: ");
             String name = scanner.nextLine();
             rooms[floor - 1][room - 1] = name;
-            System.out.println("Room booked succesfully.");
+            System.out.println("Room booked successfully.");
         }
     }
 }
